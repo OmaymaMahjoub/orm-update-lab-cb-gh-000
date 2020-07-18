@@ -37,10 +37,10 @@ class Student
     s=Students.new
     s.name(row[1])
     s.grade(row[2])
-    return s 
+    return s
   end
 
-  
+
 
 
 end
